@@ -1,0 +1,22 @@
+# Conclusiones
+
+En este proyecto, hemos desarrollado y automatizado un flujo de compra completo utilizando Selenium WebDriver y el framework TestNG. Durante este proceso, aprendimos cómo interactuar con elementos de página web, realizar pruebas de extremo a extremo y estructurar nuestras pruebas de manera eficiente utilizando Page Object Model (POM).
+
+## Aprendizajes Clave
+
+- Comprendimos la importancia de las pruebas de extremo a extremo para verificar que el software funcione como se espera en un entorno real.
+- Utilizamos Selenium WebDriver para automatizar las interacciones con elementos de la página web.
+- Implementamos el enfoque Page Object Model (POM) para organizar y mantener nuestras pruebas de manera modular y legible.
+- Aprendimos a configurar y ejecutar pruebas utilizando TestNG.
+- Ganamos experiencia en la identificación y resolución de problemas comunes al trabajar con pruebas automatizadas.
+
+## Pasos Futuros
+
+Este proyecto es un punto de partida para construir pruebas más robustas y escalables. Algunas áreas de mejora y pasos futuros podrían incluir:
+
+- Ampliar las pruebas para cubrir más escenarios y casos de uso.
+- Implementar informes detallados de prueba para una mejor visibilidad de los resultados.
+- Integrar la ejecución de pruebas en un sistema de integración continua (CI/CD).
+- Explorar técnicas de paralelización para acelerar la ejecución de pruebas.
+- Realizar pruebas en diferentes navegadores y dispositivos para garantizar la compatibilidad multiplataforma.
+
